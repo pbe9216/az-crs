@@ -1,1 +1,1 @@
-# az-crs
+# Azure course materials
