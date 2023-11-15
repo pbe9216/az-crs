@@ -15,6 +15,8 @@ Please create a report upon completion.
 	- Log as this user
 	- Try to list the users
 
+ - Switch back to the admin user
+
 ## Task 2 - Enforce basic AD security
 
 - Enforce Azure best practices for users
