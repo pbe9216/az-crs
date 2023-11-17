@@ -1,4 +1,4 @@
-# Azure Hardening 
+# Basic Azure Hardening 
 
 Please create a report upon completion.
 
